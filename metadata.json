@@ -1,0 +1,6 @@
+{
+  "name": "FindIt Nepal - Lost & Found Platform",
+  "description": "Nepal's dedicated Lost & Found platform. Report and recover lost Citizenship (Nagarikta), Bluebook, Licenses, Electronics, and belongings across Kathmandu, Pokhara, and all 7 Provinces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
