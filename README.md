@@ -4,6 +4,8 @@
 
 FindIt is a production-ready, full-featured Lost & Found management platform designed for universities, corporate campuses, transit systems, and community hubs. It provides secure reporting, privacy-first community inquiries, multi-factor smart similarity matching, progress lifecycle tracking, real-time analytics, and role-based administrative moderation.
 
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/51d2acae-916d-4a55-b796-beee6949f213" />
+
 ---
 
 ## 🚀 Key Features
